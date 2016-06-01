@@ -1,0 +1,5 @@
+<molecule>
+ <atomArray>
+  <atom id="a1" elementType="Pb" label="356" x3="-0.356590" y3="0.462535" z3="0.000000"/>
+ </atomArray>
+</molecule>
